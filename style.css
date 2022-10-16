@@ -1,0 +1,131 @@
+h1{
+    font-size: 64px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 32px 180px;
+    color: black;
+    text-align: center;
+}
+
+.box{
+    padding: 0;
+    font: inherit;
+    vertical-align: baseline;
+    width: 200px;
+    height: 200px;
+    background-color: #bada55;
+    margin: 0 auto; 
+    border: 20px solid #add8e6;
+    outline: 10px solid black;
+    box-shadow: 0 0 0 30px #ed7f80;
+ }
+
+ .marker1{
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0 16px;
+    display: inline-block;
+ }
+
+ span{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+ }
+
+ span.Circle.Content{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    width: 20px;
+    height: 20px;
+    background-color: #bada55;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 12px;
+ }
+
+ .marker2{
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0 16px;
+    display: inline-block;
+ }
+
+
+ span.Circle.Padding{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    width: 20px;
+    height: 20px;
+    background-color: #add8e6;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 12px;
+ }
+
+ .marker3{
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0 16px;
+    display: inline-block;
+ }
+
+ span.Circle.Border{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 12px;
+ }
+
+ .marker4{
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0 16px;
+    display: inline-block;
+ }
+
+
+ span.Circle.Margin{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    width: 20px;
+    height: 20px;
+    background-color: #ed7f80;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 12px;
+ }
